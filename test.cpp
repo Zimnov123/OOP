@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello git SSH";
+	cout << "change from 1";
 	return 0;
 }
