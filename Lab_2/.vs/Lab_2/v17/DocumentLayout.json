@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\problem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\problem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\truck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\truck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\moto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\moto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\moto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86CA55F-A27F-46E1-8EAD-05DC1D52C7A8}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\moto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vehicle.cpp",
+              "DocumentMoniker": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\vehicle.cpp",
+              "RelativeDocumentMoniker": "Lab_2\\vehicle.cpp",
+              "ToolTip": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\vehicle.cpp",
+              "RelativeToolTip": "Lab_2\\vehicle.cpp",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAIgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T20:51:45.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "problem.h",
+              "DocumentMoniker": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\problem.h",
+              "RelativeDocumentMoniker": "Lab_2\\problem.h",
+              "ToolTip": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\problem.h",
+              "RelativeToolTip": "Lab_2\\problem.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T22:24:36.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "problem.cpp",
+              "DocumentMoniker": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\problem.cpp",
+              "RelativeDocumentMoniker": "Lab_2\\problem.cpp",
+              "ToolTip": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\problem.cpp",
+              "RelativeToolTip": "Lab_2\\problem.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T22:54:53.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "truck.cpp",
+              "DocumentMoniker": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\truck.cpp",
+              "RelativeDocumentMoniker": "Lab_2\\truck.cpp",
+              "ToolTip": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\truck.cpp",
+              "RelativeToolTip": "Lab_2\\truck.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T22:54:13.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "car.cpp",
+              "DocumentMoniker": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\car.cpp",
+              "RelativeDocumentMoniker": "Lab_2\\car.cpp",
+              "ToolTip": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\car.cpp",
+              "RelativeToolTip": "Lab_2\\car.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T22:53:56.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "car.h",
+              "DocumentMoniker": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\car.h",
+              "RelativeDocumentMoniker": "Lab_2\\car.h",
+              "ToolTip": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\car.h",
+              "RelativeToolTip": "Lab_2\\car.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T21:16:51.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "moto.cpp",
+              "DocumentMoniker": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\moto.cpp",
+              "RelativeDocumentMoniker": "Lab_2\\moto.cpp",
+              "ToolTip": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\moto.cpp",
+              "RelativeToolTip": "Lab_2\\moto.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T22:54:29.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "moto.h",
+              "DocumentMoniker": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\moto.h",
+              "RelativeDocumentMoniker": "Lab_2\\moto.h",
+              "ToolTip": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\moto.h",
+              "RelativeToolTip": "Lab_2\\moto.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T21:31:38.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "truck.h",
+              "DocumentMoniker": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\truck.h",
+              "RelativeDocumentMoniker": "Lab_2\\truck.h",
+              "ToolTip": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\truck.h",
+              "RelativeToolTip": "Lab_2\\truck.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T21:31:14.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\main.cpp",
+              "RelativeDocumentMoniker": "Lab_2\\main.cpp",
+              "ToolTip": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\main.cpp",
+              "RelativeToolTip": "Lab_2\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T21:06:43.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vehicle.h",
+              "DocumentMoniker": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\vehicle.h",
+              "RelativeDocumentMoniker": "Lab_2\\vehicle.h",
+              "ToolTip": "G:\\Work\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041E\u041E\u041F\\Lab_2\\Lab_2\\vehicle.h",
+              "RelativeToolTip": "Lab_2\\vehicle.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T21:03:51.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

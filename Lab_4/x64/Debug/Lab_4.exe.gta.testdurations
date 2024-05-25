@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>G:\Work\Лабораторні\ООП\Lab_4\x64\Debug\Lab_4.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="VehicleListTest.AddTransportTest" Duration="1" />
+    <TestDuration Test="VehicleListTest.AddUserTest" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
